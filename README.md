@@ -1,23 +1,23 @@
 # LeetCode Practice
 
-A collection of my LeetCode solutions, documenting my journey of improving problem-solving skills, logical thinking, and algorithmic efficiency.
+My journey of improving problem-solving skills through Data Structures, Algorithms and JavaScript.
 
-## Languages
+## Language
 - JavaScript
 
-## Topics Covered
-- Arrays
-- Strings
-- Recursion
-- Sorting
-- Searching
+## Topics
 
-## Repository Structure
+| Topic | Problems |
+|---|---:|
+| Arrays | 4 |
+| Strings | 3 |
+| Math | 10 |
+| Simulation | 3 |
+| **Total** | **20** |
 
-```text
-LeetCode/
-├── JavaScript/
-│   ├── (questionNumber)1.js
-│   ├── (questionNumber)2.js
-│   └── ...
-└── README.md
+## Goals
+- Improve problem-solving skills.
+- Learn optimized solutions.
+- Practise consistently.
+
+**Consistency over perfection.**
