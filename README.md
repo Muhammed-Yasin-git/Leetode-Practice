@@ -7,13 +7,11 @@ My journey of improving problem-solving skills through Data Structures, Algorith
 
 ## Topics
 
-| Topic | Problems |
-|---|---:|
-| Arrays | 4 |
-| Strings | 3 |
-| Math | 10 |
-| Simulation | 3 |
-| **Total** | **20** |
+- Arrays.
+- Strings.
+- Math.
+- Simulation.
+
 
 ## Goals
 - Improve problem-solving skills.
